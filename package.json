@@ -1,0 +1,10 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Library Management System - Node.js, Express, SQLite",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2" },
+  "optionalDependencies": { "better-sqlite3": "^11.5.0" },
+  "engines": { "node": ">=18" }
+}
